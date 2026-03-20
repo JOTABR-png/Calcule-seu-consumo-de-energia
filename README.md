@@ -1,2 +1,4 @@
-# Calcule-seu-consumo-de-energia
-Bem nesse projeto você irá conseguir calcular o consumo em W do seu aparelho.
+# Calcule-seu-consumo-de-energia ⚡⚡
+Bem nesse projeto você irá conseguir calcular o consumo em W do seu aparelho. ⚡
+é bem simples, Você apenas coloca o nome do seu aparelho, o seu consumo em W e seu uso diário 🔋
+Linguagem usada: Pyton 🐍🐍
